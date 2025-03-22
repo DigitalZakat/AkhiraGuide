@@ -37,6 +37,24 @@
 - 🪔 **Ahiret Hedefleri**  
   Kullanıcıya özel hedef belirleme ve “Akhira’ya hazırlık” takibi
 
+ ✨ Ekstra Modüller
+✅ Vird ve Ezber Takip Modülü
+Ezberlemek istediğin dua, sure ve zikirleri listele
+
+Günlük tekrar takvimiyle hatırlat
+
+“Ezberledim” tik’iyle ilerlemeni takip et
+
+Hedef örnekleri: Yasin, Ayetel Kürsi, Cevşen
+
+✅ Hutbe & Hadis Arşivi (Bildirimli): Her Cuma otomatik hutbe ve hadis bildirimi gelir. Rastgele hadis gösterimi ile günlük motivasyon. “Favori hadis” listesi oluşturabilirsin.
+✅ Sadaka Günlüğü ve Niyet Defteri: Günlük “sadaka verdim” kayıtları. Verilen sadakanın amacı/niyeti (örneğin: hasta, borç, şükür). Manevi gelişim için kişisel niyet günlüğü ✍️
+✅ Ramazan Hazırlık TakvimiRamazan’a özel geri sayım. Günlük küçük görevler: “Bugün 1 sayfa Kur’an oku”, “Bir kişiye tebessüm et”. İbadet motivasyonunu artıracak mini hedefler
+✅ Borç Kaydı ve Hatırlatıcı (İslami Anlamda): Borç verildiğinde veya alındığında kayıt tutulur. Şahit notu eklenebilir. Ayet ve hadislerle borç ödeme hatırlatmaları
+✅ İslami Doğum Günü Takibi: Hicri doğum gününü hesaplar. Her yıl dua günü hatırlatması gönderir. Manevi doğum günlerini unutturmayan rehber
+✅ Misafir Ağırlama Takipçisi: Gelen ve ağırlanan misafirleri kaydedebilirsin “Kime gittim, kim bana geldi?” listesi
+
+
 ---
 
 ## 🚀 Kurulum
